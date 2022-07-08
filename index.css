@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    
+    
+    
+body{
+    background-image: url(donation13.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    border-bottom: 100px;
+
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    font-size: 26px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    background-color: 0,0,0,0.5;
+
+}
+.button{
+    text-decoration: none;
+    background-color: azure;
+    padding:10px 40px;
+    border-radius: 5px;
+}
+.two{
+    background-image: url(flood1.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
